@@ -1,4 +1,4 @@
 # here-we-go
 Learning should never stop
 <br>
-Author - Kritarth Pandey
+Author - Kritarth Pandey Jii
